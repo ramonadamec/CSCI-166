@@ -1,14 +1,13 @@
 # DQN on Breakout — Early vs Later (short run)
 
-Two short clips from adapting the Pong starter to **ALE/Breakout-v5**.
+Watch how performance improves as training progresses:
 
-**Early (near-random):**  
-<video src="videos/early_breakout.webm" controls width="480"></video>  
-[▶ Download/View Early (mp4 backup)](videos/early_breakout.mp4)
+| Episode | Model | Preview | Video |
+|---------|-------|---------|-------|
+| Early   | Near-random | <img src="docs/early_thumb.png" width="120"/> | [▶ Watch](https://github.com/ramonadamec/CSI-166/raw/main/videos/early_breakout.webm) |
+| Later   | Emerging strategy | <img src="docs/later_thumb.png" width="120"/> | [▶ Watch](https://github.com/ramonadamec/CSI-166/raw/main/videos/later_breakout.webm) |
 
-**Later (emerging strategy):**  
-<video src="videos/later_breakout.webm" controls width="480"></video>  
-[▶ Download/View Later (mp4 backup)](videos/later_breakout.mp4)
+---
 
 ### Notes
 - Env: `ALE/Breakout-v5`
