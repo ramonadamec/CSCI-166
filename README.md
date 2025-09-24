@@ -3,10 +3,10 @@
 Two short clips from adapting the Pong starter to **ALE/Breakout-v5**.
 
 **Early (near-random):**  
-<video src="videos/early.mp4" controls width="480"></video>
+<video src="videos/early_breakout.mp4" controls width="480"></video>
 
 **Later (emerging strategy):**  
-<video src="videos/later.mp4" controls width="480"></video>
+<video src="videos/later_breakout.mp4" controls width="480"></video>
 
 ### Notes
 - Env: `ALE/Breakout-v5`
