@@ -4,13 +4,10 @@
 
 Watch how performance improves as training progresses:
 
-| Episode | Model              | Preview                                      | Video |
-|--------:|--------------------|----------------------------------------------|-------|
-| Early   | Near-random        | <img src="videos/IMG_2523.jpeg" width="120"/> | [▶ Watch](https://github.com/ramonadamec/CSCI-166/blob/main/videos/early_breakout.mp4?raw=1) |
-| Later   | Emerging strategy  | <img src="videos/IMG_2524.jpeg" width="120"/> | [▶ Watch](https://github.com/ramonadamec/CSCI-166/blob/main/videos/later_breakout.mp4?raw=1) |
-
-> Videos and thumbnails are named to match the run (early/later).  
-> If a browser can’t stream inline, the link will still open the file directly.
+| Episode | Model             | Preview                                      | Video |
+|---------|-------------------|----------------------------------------------|-------|
+| Early   | Near-random       | <img src="videos/IMG_2523.jpeg" width="120"/> | [▶ Watch](https://raw.githubusercontent.com/ramonadamec/CSCI-166/main/videos/early_breakout.mp4) |
+| Later   | Emerging strategy | <img src="videos/IMG_2524.jpeg" width="120"/> | [▶ Watch](https://raw.githubusercontent.com/ramonadamec/CSCI-166/main/videos/later_breakout.mp4) |
 
 ### Notes
 - Env: `ALE/Breakout-v5`
