@@ -2,10 +2,10 @@
 
 Watch how performance improves as training progresses:
 
-| Episode | Model              | Preview                                      | Video |
-|---------|--------------------|----------------------------------------------|-------|
-| Early   | Near-random        | <img src="videos/IMG_2523.jpeg" width="160"/> | [▶ Watch](videos/early_breakout.webm) |
-| Later   | Emerging strategy  | <img src="videos/IMG_2524.jpeg" width="160"/> | [▶ Watch](videos/later_breakout.webm) |
+| Episode | Model             | Preview                                      | Video |
+|---------|-------------------|----------------------------------------------|-------|
+| Early   | Near-random       | <img src="videos/IMG_2523.jpeg" width="160"/> | <video src="videos/early_breakout.webm" width="320" controls></video> |
+| Later   | Emerging strategy | <img src="videos/IMG_2524.jpeg" width="160"/> | <video src="videos/later_breakout.webm" width="320" controls></video> |
 
 ---
 
