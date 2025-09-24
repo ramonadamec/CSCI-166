@@ -4,8 +4,8 @@ Watch how performance improves as training progresses:
 
 | Episode | Model             | Preview                                      | Video |
 |---------|-------------------|----------------------------------------------|-------|
-| Early   | Near-random       | <img src="videos/IMG_2523.jpeg" width="160"/> | <video src="videos/early_breakout.webm" width="320" controls></video> |
-| Later   | Emerging strategy | <img src="videos/IMG_2524.jpeg" width="160"/> | <video src="videos/later_breakout.webm" width="320" controls></video> |
+| Early   | Near-random       | <img src="videos/IMG_2523.jpeg" width="160"/> | <video src="videos/videos:early_breakout.webm" width="320" controls></video> |
+| Later   | Emerging strategy | <img src="videos/IMG_2524.jpeg" width="160"/> | <video src="videos/videos:later_breakout.webm" width="320" controls></video> |
 
 ---
 
